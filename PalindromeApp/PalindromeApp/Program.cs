@@ -8,8 +8,8 @@ class Program
         Console.WriteLine("Please input word");
         word = Console.ReadLine();
 
-        bool isPalindrome =  ispalidrome(word);
-        Console.WriteLine(word + (isPalindrome == true ? " IS" : " IS NOT") + " palidrome");
+        bool isPalindrome =  ispalidrome(word.ToLower());
+        Console.WriteLine(word + " - " +(isPalindrome ? " " : " not ") + "palindrome");
 
     }
 
