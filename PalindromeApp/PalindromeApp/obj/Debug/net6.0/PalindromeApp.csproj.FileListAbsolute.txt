@@ -1,0 +1,15 @@
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/bin/Debug/net6.0/PalindromeApp
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/bin/Debug/net6.0/PalindromeApp.deps.json
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/bin/Debug/net6.0/PalindromeApp.runtimeconfig.json
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/bin/Debug/net6.0/PalindromeApp.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/bin/Debug/net6.0/PalindromeApp.pdb
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.csproj.AssemblyReference.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.AssemblyInfoInputs.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.AssemblyInfo.cs
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.csproj.CoreCompileInputs.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/refint/PalindromeApp.dll
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.pdb
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/PalindromeApp.genruntimeconfig.cache
+/home/pfmq052/Documents/github/QABootcamp/Task2/Ex1/PalindromeChecker/PalindromeApp/PalindromeApp/obj/Debug/net6.0/ref/PalindromeApp.dll
