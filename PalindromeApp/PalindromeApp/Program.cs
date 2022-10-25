@@ -1,28 +1,40 @@
-﻿
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
         string word = "";
-        
+
         Console.WriteLine("Please input word");
         word = Console.ReadLine();
 
-        bool isPalindrome =  ispalidrome(word.ToLower());
-        Console.WriteLine(word + " - " +(isPalindrome ? " " : " not ") + "palindrome");
-
+        bool isPalindrome = Ispalidrome(word.ToLower());
+        Console.WriteLine(word + " - " + (isPalindrome ? " " : " not ") + "palindrome");
     }
 
-    public static bool ispalidrome(String word)
+    public static bool Ispalidrome(String word)
     {
-        char[] wordCharacters = word.ToCharArray();
-        for (int i = 0; i < wordCharacters.Length ; i++)
+        bool isPalenDrome = false;
+
+        try
         {
-            if (wordCharacters[i] != wordCharacters[ (wordCharacters.Length -1 ) - i] )
-            {
-                return false;
-            }
+            int halfLength = word.Length / 2;
+
+            string leftHalfString = word.Substring(0, halfLength);
+
+            char[] reversedArray = word.ToCharArray();
+            Array.Reverse(reversedArray);
+            
+            string reversedString = new string(reversedArray);
+
+            string rightHalfStringReversed = reversedString.Substring(0, halfLength);
+
+            isPalenDrome = leftHalfString == rightHalfStringReversed ? true : false;
         }
-        return true;
+        catch (Exception ex)
+        {
+            throw ex;
+        }
+
+        return isPalenDrome;
     }
 }
